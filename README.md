@@ -1,13 +1,13 @@
-# typescriptframework
+# Typescriptframework
 framework to be used for node.js and angular apps
 
 # Welcome to typescript framework by pranav kirtani
 
 ## Directory structure
 
-All you code goes in `src` folder .typescript compiles it and turns it into js and puts it in `dist` folder
+All you code goes in `src` folder .Typescript compiles it and turns it into js and puts it in `dist` folder
 
-the `dist` folder can then be shared with customers.
+The `dist` folder can then be shared with customers.
 
 ## Pre-requisites
 
